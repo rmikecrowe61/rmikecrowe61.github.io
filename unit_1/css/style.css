@@ -1,5 +1,29 @@
 body {
-	background-color: black;
+	text-align: center;
+	background-color: #000FF;
 }
-h1, p {color: gold;
+h1, p {
+	font-family: Arial, san seriff;
+	font-weight: normal;
+	text-decoration: underline;
+	text-transform: uppercase;
+	color: #FFFF00;
+}
+
+h1	{
+	font-weight: bold;
+	font-size: 24px;
+}
+
+#primary	{
+	font-weight: bold;
+	font-size: 24px;
+}
+.emphasize	{
+	font-weight: normal;
+	font-size: 18px;
+}
+.slightlyless	{
+	font-weight: normal;
+	font-size: 16px;
 }
