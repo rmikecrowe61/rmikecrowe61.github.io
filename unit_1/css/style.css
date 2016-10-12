@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-	background="test123.jpg";
+	background-color: Yellow;
 	div {
 		width: 150px;
 		height: 150px;
@@ -14,7 +14,7 @@ h1, p {
 	font-weight: normal;
 	text-decoration: underline;
 	text-transform: uppercase;
-	color: #45d1ff;
+	color: 255,0,0;
 }
 
 h1	{
