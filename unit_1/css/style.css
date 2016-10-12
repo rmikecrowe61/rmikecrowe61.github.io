@@ -1,5 +1,5 @@
 body {
-	text-align: center;
+	text-align: justify-all;
 	background-color: Yellow;
 	div {
 		width: 100px;
@@ -8,16 +8,13 @@ body {
 		display: inline-flex;
 		margin: 50px;
 	}
-}
-h1, p {
+	
+h1	{
 	font-family: Arial, san seriff;
 	font-weight: normal;
 	text-decoration: underline;
 	text-transform: uppercase;
 	color: 255,0,0;
-}
-
-h1	{
 	font-weight: bold;
 	font-size: 24px;
 }
