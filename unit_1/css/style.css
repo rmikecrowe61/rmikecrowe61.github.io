@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-	background-color: #0,0,0;
+	background-color: #255,255,255;
 	div {
 		width: 150px;
 		height: 150px;
@@ -14,7 +14,7 @@ h1, p {
 	font-weight: normal;
 	text-decoration: underline;
 	text-transform: uppercase;
-	color: #FFFF00;
+	color: #45d1ff;
 }
 
 h1	{
