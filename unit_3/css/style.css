@@ -1,16 +1,17 @@
+body
+{
+	text-align: center;
+	font-size: 22px;
+}
 #slogan	
 {
 	font-weight: bold;
-	font-size: 22px;
 }
 ul	
 {
 	font-weight: bold;
-	font-size: 18px;
 }
 address
 {
-	text-align: center;
 	font-weight: normal;
-	font-size: 18px;
 }
