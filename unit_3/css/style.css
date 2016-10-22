@@ -1,13 +1,13 @@
 body
 {
-	color: 255,0,0;
+	color: black;
 	background-color: powderblue;
 	text-align: center;
 	font-size: 20px;
 }
 h1
 {
-	color: 0,255,255;
+	color: green;
 	text-align: center;
 	font-size: 26px;
 }
@@ -17,14 +17,14 @@ img
 }
 #slogan	
 {
-	color: 0,255,255;
+	color: green;
 	text-align: left;
 	font-weight: bold;
 	font-style: italic;
 }
 #introduction	
 {
-	color: 0,255,255;
+	color: green;
 	text-align: center;
 	font-weight: bold;
 	font-style: normal;
@@ -36,7 +36,7 @@ ul
 }
 li	
 {
-	color: 0,255,255;
+	color: green;
 	text-align: left;
 	font-weight: normal;
 }
