@@ -1,16 +1,33 @@
 body
 {
+	background-color: 0,0,255;
 	text-align: center;
-	font-size: 22px;
+	font-size: 20px;
+}
+h1
+{
+	text-align: center;
+	font-size: 26px;
+}
+img
+{
+	text-align: center;
 }
 #slogan	
 {
+	text-align: left;
 	font-weight: bold;
+	font-style: italic;
 }
 ul	
 {
 	text-align: left;
 	font-weight: bold;
+}
+li	
+{
+	text-align: left;
+	font-weight: normal;
 }
 address
 {
