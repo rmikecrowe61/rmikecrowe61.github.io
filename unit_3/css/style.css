@@ -7,6 +7,6 @@ body
 {
 	 color: 25,0,0;
 	text-align: center;
-	background: url("images/testimage01.jpg);
+	background: url(images/testimage01.jpg);
 	background-size: cover;
 }
