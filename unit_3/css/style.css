@@ -1,0 +1,11 @@
+#slogan	
+{
+	font-weight: bold;
+	font-size: 22px;
+}
+body 
+{
+	text-align: center;
+	background: url("images/testimage01.jpg);
+	background-size: cover;
+}
