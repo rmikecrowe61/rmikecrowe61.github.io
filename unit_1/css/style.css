@@ -20,6 +20,8 @@ h1	{
 }
 body{
 	text-align: center;
+	background: url("http://i/imgur.com/q0FaaAk.jpg");
+	background-size: cover;
 }
 #title	{
 	font-weight: bold;
