@@ -1,6 +1,6 @@
 body
 {
-	font-family: helvetica, georgia;
+	font-family: Arial, Helvetica, sans-serif;
 }
 h1
 {
@@ -26,6 +26,7 @@ h1
 }
 ul	
 {
+	font-family: "Times New Roman", Times, serif;
 	color: yellow;
 	text-align: left;
 	font-weight: bold;
