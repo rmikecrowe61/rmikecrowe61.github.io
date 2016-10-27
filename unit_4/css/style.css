@@ -5,13 +5,12 @@ body
 {
 	font-family: helvetica, georgia;
 	color: black;
-	background-color: powderblue;
 	text-align: center;
-	font-size: 20px;
+	font-size: 24px;
 }
 h1
 {
-	color: green;
+	color: red;
 	text-align: center;
 	font-size: 26px;
 }
@@ -21,7 +20,7 @@ img
 }
 #slogan	
 {
-	color: green;
+	color: white;
 	text-align: left;
 	font-weight: bold;
 	font-style: italic;
