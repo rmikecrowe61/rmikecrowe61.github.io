@@ -1,0 +1,50 @@
+body
+{
+    background: url("images/QeHVxa5.png") repeat;
+}
+{
+	font-family: helvetica, georgia;
+	color: black;
+	background-color: powderblue;
+	text-align: center;
+	font-size: 20px;
+}
+h1
+{
+	color: green;
+	text-align: center;
+	font-size: 26px;
+}
+img
+{
+	text-align: center;
+}
+#slogan	
+{
+	color: green;
+	text-align: left;
+	font-weight: bold;
+	font-style: italic;
+}
+#introduction	
+{
+	color: green;
+	text-align: center;
+	font-weight: bold;
+	font-style: normal;
+}
+ul	
+{
+	text-align: left;
+	font-weight: bold;
+}
+li	
+{
+	color: green;
+	text-align: left;
+	font-weight: normal;
+}
+address
+{
+	font-weight: normal;
+}
