@@ -2,19 +2,12 @@ body
 {
 	background: url("images/QeHVxa5.png") repeat;
 	font-family: helvetica, georgia;
-	color: black;
-	text-align: center;
-	font-size: 24px;
 }
 h1
 {
 	color: red;
 	text-align: center;
-	font-size: 26px;
-}
-img
-{
-	text-align: center;
+	font-size: 30px;
 }
 #slogan	
 {
@@ -22,26 +15,28 @@ img
 	text-align: left;
 	font-weight: bold;
 	font-style: italic;
+	font-size: 28px;
 }
 #introduction	
 {
-	color: green;
+	color: black;
 	text-align: center;
 	font-weight: bold;
 	font-style: normal;
+	font-size: 26px;
 }
 ul	
 {
+	color: black;
 	text-align: left;
 	font-weight: bold;
-}
-li	
-{
-	color: green;
-	text-align: left;
-	font-weight: normal;
+	font-style: italic;
+	font-size: 24px;
 }
 address
 {
+	color: black;
+	text-align: center;
 	font-weight: normal;
+	font-size: 24px;
 }
