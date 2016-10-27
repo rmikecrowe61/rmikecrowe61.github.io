@@ -19,7 +19,7 @@ h1
 #introduction	
 {
 	color: yellow;
-	text-align: center;
+	text-align: left;
 	font-weight: bold;
 	font-style: normal;
 	font-size: 26px;
@@ -27,7 +27,7 @@ h1
 ul	
 {
 	font-family: "Times New Roman", Times, serif;
-	color: yellow;
+	color: green;
 	text-align: left;
 	font-weight: bold;
 	font-style: italic;
