@@ -1,8 +1,6 @@
 body
 {
-    background: url("unit_4/images/QeHVxa5.png") repeat;
-}
-{
+	background: url("images/QeHVxa5.png") repeat;
 	font-family: helvetica, georgia;
 	color: black;
 	text-align: center;
@@ -20,7 +18,7 @@ img
 }
 #slogan	
 {
-	color: white;
+	color: black;
 	text-align: left;
 	font-weight: bold;
 	font-style: italic;
