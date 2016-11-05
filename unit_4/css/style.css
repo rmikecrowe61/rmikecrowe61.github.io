@@ -45,3 +45,11 @@ address
 	font-weight: normal;
 	font-size: 24px;
 }
+span{
+	font-family: "Times New Roman", Times, serif;
+	color: orange;
+	text-align: left;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 24px;
+}
