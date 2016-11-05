@@ -8,6 +8,11 @@ h1
 	text-align: center;
 	font-size: 30px;
 }
+#wrapper{
+	background-color: #660033;
+	width: 960px;
+	margin: 0 auto;
+}
 #slogan	
 {
 	color: white;
