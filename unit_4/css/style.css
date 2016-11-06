@@ -14,7 +14,7 @@ h1
 }
 #slogan	
 {
-	color: red;
+	color: aqua;
 	text-align: left;
 	font-weight: bold;
 	font-style: italic;
@@ -40,7 +40,7 @@ ul
 ol
 {
 	font-family: "Times New Roman", Times, serif;
-	color: black;
+	color: lime;
 	text-align: left;
 	font-weight: bold;
 	font-style: italic;
