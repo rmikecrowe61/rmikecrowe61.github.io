@@ -15,8 +15,14 @@ h2
 	font-size: 28px;
 }
 header{
-	width: 1100px;
-	margin: 5em auto;
+	background-color: #F08080;
+	border: 1px black solid;
+	padding: 20px;
+}
+header{
+	background-color: #F08080;
+	border: 1px black solid;
+	padding: 20px;
 }
 #slogan	
 {
