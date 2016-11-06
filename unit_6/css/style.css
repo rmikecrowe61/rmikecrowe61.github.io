@@ -5,5 +5,8 @@ nav{
 a{
     background-color: #ff7900;
     color: white;
+    display: block;
+    padding: 10px;
+    width: 200px;
     text-decoration: none;
 }
