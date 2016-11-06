@@ -9,7 +9,7 @@ h1
 	font-size: 30px;
 }
 #wrapper{
-	background:url(images/QeHVxa5.png) no-repeat fixed center;
+	background-image: url(images/QeHVxa5.png) center;
 	width: 1100px;
 	margin: 0 auto;
 }
