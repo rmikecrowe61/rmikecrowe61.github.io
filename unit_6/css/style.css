@@ -10,3 +10,6 @@ a{
     width: 200px;
     text-decoration: none;
 }
+a:hover {
+    background-color: #aaaaaa;
+}
