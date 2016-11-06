@@ -38,6 +38,15 @@ ul
 	font-style: italic;
 	font-size: 24px;
 }
+ol
+{
+	font-family: "Times New Roman", Times, serif;
+	color: white;
+	text-align: left;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 24px;
+}
 address
 {
 	color: yellow;
