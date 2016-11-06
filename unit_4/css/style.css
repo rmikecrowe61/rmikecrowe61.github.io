@@ -24,7 +24,7 @@ header{
 	text-align: left;
 	font-weight: bold;
 	font-style: italic;
-	font-size: 28px;
+	font-size: 26px;
 }
 #introduction	
 {
@@ -32,32 +32,32 @@ header{
 	text-align: left;
 	font-weight: bold;
 	font-style: normal;
-	font-size: 26px;
+	font-size: 24px;
 }
-ul	
+aside
 {
 	font-family: "Times New Roman", Times, serif;
 	color: orange;
 	text-align: left;
 	font-weight: bold;
 	font-style: italic;
-	font-size: 24px;
+	font-size: 20px;
 }
-ol
+article
 {
 	font-family: "Times New Roman", Times, serif;
 	color: yellow;
 	text-align: left;
 	font-weight: bold;
 	font-style: italic;
-	font-size: 24px;
+	font-size: 20px;
 }
 footer
 {
 	color: yellow;
 	text-align: center;
 	font-weight: normal;
-	font-size: 24px;
+	font-size: 22px;
 }
 span{
 	background-color: gray;
