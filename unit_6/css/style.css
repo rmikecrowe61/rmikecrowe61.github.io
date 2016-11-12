@@ -37,7 +37,7 @@ article {
     padding: 20px;
 }
 
-#left1{
+#left{
   background-color: #E582A2;
     border: 1px black solid;
     padding: 20px; 
@@ -45,23 +45,7 @@ article {
     width: 30%; 
 }
 
-#right1{
-  background-color: #E582A2;
-    border: 1px black solid;
-    padding: 20px;  
-    float: right;
-    width: 62%; 
-}
-
-#left2{
-  background-color: #E582A2;
-    border: 1px black solid;
-    padding: 20px; 
-    float: left;
-    width: 30%; 
-}
-
-#right2{
+#right{
   background-color: #E582A2;
     border: 1px black solid;
     padding: 20px;  
