@@ -28,22 +28,6 @@ article {
     padding: 20px;
 }
 
-#left{
-  background-color: #E582A2;
-    border: 1px black solid;
-    padding: 20px; 
-    float: left;
-    width: 30%; 
-}
-
-#right{
-  background-color: #E582A2;
-    border: 1px black solid;
-    padding: 20px;  
-    float: right;
-    width: 62%; 
-}
-
 .clearfix:after{
     visibility: hidden;
     display: block;
@@ -51,6 +35,38 @@ article {
     content: "";
     clear: both;
     height: 0;
+}
+
+#left1{
+  background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px; 
+    float: left;
+    width: 30%; 
+}
+
+#right1{
+  background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;  
+    float: right;
+    width: 62%; 
+}
+
+#left2{
+  background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px; 
+    float: left;
+    width: 30%; 
+}
+
+#right2{
+  background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;  
+    float: right;
+    width: 62%; 
 }
 
 footer {
