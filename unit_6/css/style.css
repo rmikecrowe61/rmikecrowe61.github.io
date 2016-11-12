@@ -1,5 +1,5 @@
 header {
-    background-color: #FFED74;
+    background-color: yellow;
     border: 1px black solid;
     padding: 20px;
     text-align: center;
@@ -9,9 +9,12 @@ header {
 }
 
 nav {
-    background-color: #E8C66A;
+    background-color: gold;
     border: 1px black solid;
     padding: 20px;
+    font-family: "Times New Roman", Times, serif;
+    font-style: normal;
+    font-size: 24px;
 }
 
 .clearfix:after{
