@@ -10,6 +10,15 @@ nav {
     padding: 20px;
 }
 
+.clearfix:after{
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: "";
+    clear: both;
+    height: 0;
+}
+
 aside {
     background-color: #FFC675;
     border: 1px black solid;
@@ -26,15 +35,6 @@ article {
     background-color: #FFB7CF;
     border: 1px black solid;
     padding: 20px;
-}
-
-.clearfix:after{
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: "";
-    clear: both;
-    height: 0;
 }
 
 #left1{
