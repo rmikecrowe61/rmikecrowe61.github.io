@@ -3,39 +3,47 @@ header {
     border: 1px black solid;
     padding: 20px;
 }
+
 nav {
     background-color: #E8C66A;
     border: 1px black solid;
     padding: 20px;
 }
+
 aside {
     background-color: #FFC675;
     border: 1px black solid;
     padding: 20px;
 }
+
 article {
     background-color: #E89C6C;
     border: 1px black solid;
     padding: 20px;
 }
+
 #two-column{
     background-color: #FFB7CF;
     border: 1px black solid;
     padding: 20px;
-
 }
+
 #left{
   background-color: #E582A2;
     border: 1px black solid;
-    padding: 20px;  
-
+    padding: 20px; 
+    float: left;
+    width: 30%; 
 }
+
 #right{
   background-color: #E582A2;
     border: 1px black solid;
     padding: 20px;  
-
+    float: right;
+    width: 62%; 
 }
+
 footer {
     background-color: #FF957E;
     border: 1px black solid;
