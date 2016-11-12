@@ -18,6 +18,24 @@ article {
     border: 1px black solid;
     padding: 20px;
 }
+#two-column{
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+
+}
+#left{
+  background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;  
+
+}
+#right{
+  background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;  
+
+}
 footer {
     background-color: #FF957E;
     border: 1px black solid;
