@@ -38,6 +38,9 @@ nav {
     padding: 20px; 
     float: left;
     width: 30%; 
+    font-family: "Times New Roman", Times, serif;
+    font-style: bold;
+    font-size: 18px;
 }
 
 #right{
@@ -46,6 +49,9 @@ nav {
     padding: 20px;  
     float: right;
     width: 62%; 
+     font-family: "Times New Roman", Times, serif;
+    font-style: bold;
+    font-size: 18px;
 }
 
 footer {
