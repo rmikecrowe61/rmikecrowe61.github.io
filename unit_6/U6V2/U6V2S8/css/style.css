@@ -1,0 +1,15 @@
+article {
+  width: 500px;
+  margin: 10px auto;
+  border: 2px solid black;
+  padding: 10px;
+}
+
+article img {
+  margin: 0 10px 10px 0;
+}
+
+article p {
+  margin: 0;
+  padding: 0;
+}
