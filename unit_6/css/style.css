@@ -26,26 +26,14 @@ nav {
     height: 0;
 }
 
-aside {
-    background-color: #FFC675;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-article {
-    background-color: #E89C6C;
-    border: 1px black solid;
-    padding: 20px;
-}
-
 #two-column{
-    background-color: #FFB7CF;
+    background-color: rgb(255, 172, 198);
     border: 1px black solid;
     padding: 20px;
 }
 
 #left{
-  background-color: #E582A2;
+  background-color: rgb(100, 255, 198);
     border: 1px black solid;
     padding: 20px; 
     float: left;
@@ -53,7 +41,7 @@ article {
 }
 
 #right{
-  background-color: #E582A2;
+  background-color: rgb(255, 92, 77);
     border: 1px black solid;
     padding: 20px;  
     float: right;
