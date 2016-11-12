@@ -17,15 +17,6 @@ nav {
     font-size: 24px;
 }
 
-.clearfix:after{
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: "";
-    clear: both;
-    height: 0;
-}
-
 #two-column{
     background-color: rgb(255, 172, 198);
     border: 1px black solid;
