@@ -2,6 +2,9 @@ header {
     background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
+    font-family: "Times New Roman", Times, serif;
+    font-style: oblique;
+    font-size: 28px;
 }
 
 nav {
