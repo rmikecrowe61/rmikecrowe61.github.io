@@ -25,10 +25,10 @@ nav {
 
 #left{
   background-color: rgb(100, 255, 198);
-    border: 1px black solid;
-    padding: 20px; 
+    border: 3px black solid;
+    padding: 10px; 
     float: left;
-    width: 30%; 
+    width: 25%; 
     font-family: "Times New Roman", Times, serif;
     font-style: bold;
     font-size: 18px;
@@ -36,11 +36,11 @@ nav {
 
 #right{
   background-color: rgb(255, 92, 77);
-    border: 1px black solid;
-    padding: 20px;  
+    border: 3px black solid;
+    padding: 10px;  
     float: right;
-    width: 62%; 
-     font-family: "Times New Roman", Times, serif;
+    width: 65%; 
+    font-family: "Times New Roman", Times, serif;
     font-style: bold;
     font-size: 18px;
 }
@@ -56,7 +56,7 @@ nav {
 
 footer {
     background-color: orange;
-    border: 1px black solid;
+    border: 3px black solid;
     padding: 20px;
     text-align: center;
     font-family: "Times New Roman", Times, serif;
