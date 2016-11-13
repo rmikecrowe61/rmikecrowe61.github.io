@@ -61,7 +61,7 @@ article{
     background-color: orange;
     border: 3px black solid;
     padding: 20px;
-    text-align: justify;
+    text-align: left;
     font-family: "Times New Roman", Times, Serif;
     font-style: normal;
     font-size: 24px;
@@ -71,7 +71,7 @@ aside{
     background-color: orange;
     border: 3px black solid;
     padding: 20px;
-    text-align: justify;
+    text-align: center;
     font-family: "Times New Roman", Times, Serif;
     font-style: normal;
     font-size: 24px;
