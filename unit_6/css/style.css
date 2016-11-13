@@ -1,6 +1,6 @@
 header {
     /*background-color: yellow;*/
-    color: yellow;
+    color: black;
     border: 3px white solid;
     padding: 20px;
     text-align: center;
@@ -11,7 +11,8 @@ header {
 }
 
 body{
-   background-image: url('../images/background.png'); 
+   /*background-image: url('../images/background.png');*/ 
+   background: linear-gradient(to bottom right, yellow, white); /* Standard syntax */
    border: 3px white solid;
 }
 
@@ -54,7 +55,7 @@ li {
 #left{
    /* background-image: url('../images/sample.gif');
 /*    background-color: rgb(100, 255, 198);*/
-    color: red;
+    color: black;
     padding: 10px; 
     float: left;
     width: 70%; 
@@ -66,7 +67,7 @@ li {
 
 #right{
   /*background-color: rgb(255, 92, 77);*/
-    color: yellow;
+    color: black;
     padding: 10px;  
     float: right;
     width: 25%; 
@@ -87,7 +88,7 @@ li {
 
 article{
     /*background-color: orange;*/
-    color: orange;
+    color: black;
     padding: 20px;
     text-align: left;
     font-family: "Times New Roman", Times, Serif;
@@ -98,7 +99,7 @@ article{
 
 aside{
     /*background-color: orange;*/
-    color: orange;
+    color: black;
     padding: 20px;
     text-align: center;
     font-family: "Times New Roman", Times, Serif;
@@ -109,7 +110,7 @@ aside{
 
 footer {
     /*background-color: orange;*/
-    color: white;
+    color: black;
     padding: 20px;
     text-align: center;
     font-family: "Times New Roman", Times, Serif;
