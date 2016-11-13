@@ -1,17 +1,21 @@
 header {
-    background-color: yellow;
-    border: 1px black solid;
+    /*background-color: yellow;*/
+    border: 3px black solid;
     padding: 20px;
     text-align: center;
     font-family: "Times New Roman", Georgia, Serif;
     font-style: oblique;
     font-weight: bold;
-    font-size: 28px;
+    font-size: 30px;
+}
+
+body{
+   background-image: url('../images/background.png'); 
 }
 
 nav {
     background-color: gold;
-    border: 1px black solid;
+    border: 3px black solid;
     padding: 20px;
     font-family: "Times New Roman", Times, Serif;
     font-style: normal;
@@ -19,13 +23,14 @@ nav {
 }
 
 #two-column{
-    background-color: rgb(255, 172, 198);
+    /*background-color: rgb(255, 172, 198);*/
     border: 1px black solid;
     padding: 20px;
 }
 
 #left{
-  background-color: rgb(100, 255, 198);
+   /* background-image: url('../images/sample.gif');
+/*    background-color: rgb(100, 255, 198);*/
     border: 3px black solid;
     padding: 10px; 
     float: left;
@@ -37,7 +42,7 @@ nav {
 }
 
 #right{
-  background-color: rgb(255, 92, 77);
+  /*background-color: rgb(255, 92, 77);*/
     border: 3px black solid;
     padding: 10px;  
     float: right;
@@ -58,7 +63,7 @@ nav {
 }
 
 article{
-    background-color: orange;
+    /*background-color: orange;*/
     border: 3px black solid;
     padding: 20px;
     text-align: left;
@@ -68,7 +73,7 @@ article{
 }
 
 aside{
-    background-color: orange;
+    /*background-color: orange;*/
     border: 3px black solid;
     padding: 20px;
     text-align: center;
@@ -78,7 +83,7 @@ aside{
 }
 
 footer {
-    background-color: orange;
+    /*background-color: orange;*/
     border: 3px black solid;
     padding: 20px;
     text-align: center;
