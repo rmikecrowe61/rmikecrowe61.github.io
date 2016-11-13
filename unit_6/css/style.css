@@ -77,6 +77,7 @@ span{
     padding: 10px;  
     float: right;
     width: 25%; 
+    text-align: justify-all;
     font-family: "Times New Roman", Times, Serif;
    font-style: oblique;
     font-weight: bold;
