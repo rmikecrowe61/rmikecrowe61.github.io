@@ -36,7 +36,7 @@ nav {
 #left{
    /* background-image: url('../images/sample.gif');
 /*    background-color: rgb(100, 255, 198);*/
-    color: red
+    color: red;
     border: 3px black solid;
     padding: 10px; 
     float: left;
@@ -49,7 +49,7 @@ nav {
 
 #right{
   /*background-color: rgb(255, 92, 77);*/
-    color: green;
+    color: yellow;
     border: 3px black solid;
     padding: 10px;  
     float: right;
