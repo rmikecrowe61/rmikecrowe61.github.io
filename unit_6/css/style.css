@@ -14,9 +14,12 @@ body{
    background-image: url('../images/background.png'); 
 }
 
+a {
+    color: hotpink;
+}
+
 nav {
     /*background-color: gold;*/
-    color: orange;
     border: 3px black solid;
     padding: 20px;
     font-family: "Times New Roman", Times, Serif;
