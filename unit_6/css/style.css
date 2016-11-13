@@ -17,6 +17,12 @@ body{
 
 a {
     color: hotpink;
+     display: block;
+  min-height: 100%;
+  padding: 4px 10px;
+  background-color: #222;
+  color: white;
+  border-radius: 6px 6px 0 0;
 }
 
 nav {
@@ -29,6 +35,16 @@ nav {
     font-style: normal;
     font-size: 24px;
 }
+
+li {
+  display: table-cell;
+  width: 25%;
+  padding-right: 1px;
+  height: auto;
+  vertical-align: bottom;
+}
+
+
 
 #two-column{
     /*background-color: rgb(255, 172, 198);*/
