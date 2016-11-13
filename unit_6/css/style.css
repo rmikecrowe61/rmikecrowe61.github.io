@@ -52,6 +52,14 @@ li {
     padding: 20px;
 }
 
+span{
+    text-align: center;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 30px;
+}
+
 #left{
    /* background-image: url('../images/sample.gif');
 /*    background-color: rgb(100, 255, 198);*/
