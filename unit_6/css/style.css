@@ -51,6 +51,7 @@ li {
 }
 
 span{
+    color: red;
     text-align: center;
     font-family: "Times New Roman", Georgia, Serif;
     font-style: oblique;
