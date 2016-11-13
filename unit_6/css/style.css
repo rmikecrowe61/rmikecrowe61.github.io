@@ -71,6 +71,7 @@ nav {
 
 article{
     /*background-color: orange;*/
+    color: orange;
     border: 3px black solid;
     padding: 20px;
     text-align: left;
@@ -81,6 +82,7 @@ article{
 
 aside{
     /*background-color: orange;*/
+    color: orange;
     border: 3px black solid;
     padding: 20px;
     text-align: center;
@@ -91,6 +93,7 @@ aside{
 
 footer {
     /*background-color: orange;*/
+    color: white;
     border: 3px black solid;
     padding: 20px;
     text-align: center;
