@@ -98,11 +98,13 @@ span{
 article{
     width: 50%;
     color: black;
-    padding: 20px;
-    text-align: left;
+    padding: 10px; 
+    float: left;
+    width: 70%; 
     font-family: "Times New Roman", Times, Serif;
+    font-style: italic;
     font-weight: bold;
-    font-style: normal;
+    font-size: .9em;
 }
 
 aside{
