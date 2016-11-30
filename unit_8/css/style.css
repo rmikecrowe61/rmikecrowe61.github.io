@@ -95,7 +95,7 @@ span{
 }
 
 article{
-    /*background-color: orange;*/
+    width: 50%;
     color: black;
     padding: 20px;
     text-align: left;
@@ -106,7 +106,7 @@ article{
 }
 
 aside{
-    /*background-color: orange;*/
+    width: 50%;
     color: black;
     padding: 20px;
     text-align: center;
