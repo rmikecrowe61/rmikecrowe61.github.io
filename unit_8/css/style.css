@@ -7,13 +7,14 @@ header {
     font-family: "Times New Roman", Georgia, Serif;
     font-style: oblique;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 28px;
 }
 
 body{
    /*background-image: url('../images/background.png');*/ 
    background: linear-gradient(to bottom right, yellow, white); /* Standard syntax */
    border: 3px white solid;
+   font-size: 24px;
 }
 
 a {
@@ -22,6 +23,8 @@ a {
   min-height: 100%;
   padding: 4px 10px;
   border-radius: 6px 6px 0 0;
+  font-size: .8em;
+}
 }
 
 nav {
@@ -32,7 +35,7 @@ nav {
     padding: 20px;
     font-family: "Times New Roman", Times, Serif;
     font-style: normal;
-    font-size: 24px;
+    font-size: .8em;
 }
 
 li {
@@ -41,6 +44,7 @@ li {
   padding-right: 1px;
   height: auto;
   vertical-align: bottom;
+  font-size: .8em;
 }
 
 
@@ -48,6 +52,7 @@ li {
 #two-column{
     /*background-color: rgb(255, 172, 198);*/
     padding: 20px;
+    font-size: 1.0em;
 }
 
 span{
@@ -56,7 +61,7 @@ span{
     font-family: "Times New Roman", Georgia, Serif;
     font-style: oblique;
     font-weight: bold;
-    font-size: 30px;
+    font-size: .9em;
 }
 
 #left{
@@ -69,7 +74,7 @@ span{
     font-family: "Times New Roman", Times, Serif;
     font-style: italic;
     font-weight: bold;
-    font-size:22px;
+    font-size: .9em;
 }
 
 #right{
@@ -82,7 +87,7 @@ span{
     font-family: "Times New Roman", Times, Serif;
    font-style: oblique;
     font-weight: bold;
-    font-size: 22px;
+    font-size: .9em;
 }
 
 .clearfix:after{
@@ -102,7 +107,6 @@ article{
     font-family: "Times New Roman", Times, Serif;
     font-weight: bold;
     font-style: normal;
-    font-size: 20px;
 }
 
 aside{
@@ -113,7 +117,6 @@ aside{
     font-family: "Times New Roman", Times, Serif;
     font-weight: bold;
     font-style: normal;
-    font-size: 20px;
 }
 
 footer {
@@ -123,7 +126,7 @@ footer {
     text-align: center;
     font-family: "Times New Roman", Times, Serif;
     font-style: normal;
-    font-size: 18px;
+    font-size: .75em;
 }
 /*@media screen only and (max-width: 1500px) and (min-width: 350px){
     body{
