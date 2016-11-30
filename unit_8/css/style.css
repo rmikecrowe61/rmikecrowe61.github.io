@@ -128,9 +128,9 @@ footer {
     font-style: normal;
     font-size: .75em;
 }
-/*@media screen only and (max-width: 1500px) and (min-width: 350px){
+@media screen only and (max-width: 1500px) and (min-width: 350px){
     body{
-        font-size: 12px;
-    }*/
+        font-size: .5em;
+    }
 
 }
