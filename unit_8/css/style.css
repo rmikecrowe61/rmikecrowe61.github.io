@@ -131,5 +131,10 @@ footer {
         float: none;
         font-size: .5em;
     }
+    @media screen only and (max-width: 750px){
+    body{
+        float: none;
+        font-size: .5em;
+    }
 
 }
