@@ -124,7 +124,7 @@ footer {
     text-align: center;
     font-family: "Times New Roman", Times, Serif;
     font-style: normal;
-    font-size: .75em;
+    font-size: 24px;
 }
 @media screen only and (max-width: 1500px){
     body{
