@@ -128,6 +128,7 @@ footer {
 }
 @media screen only and (max-width: 1500px){
     body{
+        float: none;
         font-size: .5em;
     }
 
