@@ -1,5 +1,4 @@
 header {
-    /*background-color: yellow;*/
     color: black;
     border: 3px white solid;
     padding: 10px;
@@ -11,8 +10,7 @@ header {
 }
 
 body{
-   /*background-image: url('../images/background.png');*/ 
-   background: linear-gradient(to bottom right, yellow, white); /* Standard syntax */
+   background: linear-gradient(to bottom right, yellow, white);
    border: 3px white solid;
    font-size: 24px;
 }
@@ -28,7 +26,6 @@ a {
 }
 
 nav {
-    /*background-color: gold;*/
     display: table;
     table-layout: fixed;
     text-align: center;
@@ -48,7 +45,6 @@ li {
 }
 
 #two-column{
-    /*background-color: rgb(255, 172, 198);*/
     padding: 10px;
     font-size: 1.0em;
 }
@@ -63,8 +59,6 @@ span{
 }
 
 #left{
-   /* background-image: url('../images/sample.gif');
-/*    background-color: rgb(100, 255, 198);*/
     color: black;
     padding: 10px; 
     float: left;
@@ -76,7 +70,6 @@ span{
 }
 
 #right{
-  /*background-color: rgb(255, 92, 77);*/
     color: black;
     padding: 10px;  
     float: right;
@@ -120,7 +113,6 @@ aside{
 }
 
 footer {
-    /*background-color: orange;*/
     color: black;
     padding: 10px;
     text-align: center;
@@ -133,7 +125,8 @@ footer {
         float: none;
         font-size: .5em;
     }
-    @media screen only and (max-width: 750px){
+}
+@media screen only and (max-width: 750px){
     body{
         float: none;
         font-size: .5em;
