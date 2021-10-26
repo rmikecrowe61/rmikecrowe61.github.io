@@ -1,0 +1,3 @@
+C:\Users\rmike\source\repos\API_101_03242021\obj\Debug\API_101_03242021.njsproj.CoreCompileInputs.cache
+C:\Users\rmike\source\repos\API_101_03242021\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\rmike\source\repos\API_101_03242021\obj\Debug\API_101_03242021.njsproj.AssemblyReference.cache
